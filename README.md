@@ -41,26 +41,15 @@ Access the admin interface by navigating to http://localhost:8000/admin/ in your
 
 To visualize the GraphQL schema, navigate to http://localhost:8000/schema/ in your web browser.
 
-# Project Structure
 
-  The project structure is as follows:
+# Development
 
-Django-Graphql/
-│
-├── django_graphql/     # Main Django project directory
-├── settings.py     # Django settings file
-│   ├── urls.py         # URL configuration
-│   └── ...
-│
-├── schema_graph/       # Third-party app for schema visualization
-│   └── ...
-│
-├── app1/               # Placeholder for Django apps (if any)
-│   └── ...
-│
-├── app2/               # Placeholder for Django apps (if any)
-│   └── ...
-│
-├── manage.py           # Django's command-line utility for administrative tasks
-│
-└── README.md           # Project README file (you are here)
+    If you use this package and you like it, please encourage us by giving us a star. Of course, it is not evening in any of these cases.
+
+    Be happy and smile
+
+# License
+
+This project is licensed under the GPL license 
+
+Thank you for using Django GraphQL Schema Visualization! 🚀
