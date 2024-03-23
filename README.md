@@ -44,9 +44,9 @@ To visualize the GraphQL schema, navigate to http://localhost:8000/schema/ in yo
 
 # Development
 
-    If you use this package and you like it, please encourage us by giving us a star. Of course, it is not evening in any of these cases.
+If you use this package and you like it, please encourage us by giving us a star. Of course, it is not evening in any of these cases.
 
-    Be happy and smile
+Be happy and smile
 
 # License
 
