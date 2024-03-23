@@ -37,30 +37,30 @@
       
       python manage.py runserver
 
-    Access the admin interface by navigating to http://localhost:8000/admin/ in your web browser and log in using the superuser credentials created in step 4.
+Access the admin interface by navigating to http://localhost:8000/admin/ in your web browser and log in using the superuser credentials created in step 4.
 
-    To visualize the GraphQL schema, navigate to http://localhost:8000/schema/ in your web browser.
+To visualize the GraphQL schema, navigate to http://localhost:8000/schema/ in your web browser.
 
 # Project Structure
 
   The project structure is as follows:
 
-  Django-Graphql/
-    │
-    ├── django_graphql/     # Main Django project directory
-    │   ├── settings.py     # Django settings file
-    │   ├── urls.py         # URL configuration
-    │   └── ...
-    │
-    ├── schema_graph/       # Third-party app for schema visualization
-    │   └── ...
-    │
-    ├── app1/               # Placeholder for Django apps (if any)
-    │   └── ...
-    │
-    ├── app2/               # Placeholder for Django apps (if any)
-    │   └── ...
-    │
-    ├── manage.py           # Django's command-line utility for administrative tasks
-    │
-    └── README.md           # Project README file (you are here)
+Django-Graphql/
+│
+├── django_graphql/     # Main Django project directory
+├── settings.py     # Django settings file
+│   ├── urls.py         # URL configuration
+│   └── ...
+│
+├── schema_graph/       # Third-party app for schema visualization
+│   └── ...
+│
+├── app1/               # Placeholder for Django apps (if any)
+│   └── ...
+│
+├── app2/               # Placeholder for Django apps (if any)
+│   └── ...
+│
+├── manage.py           # Django's command-line utility for administrative tasks
+│
+└── README.md           # Project README file (you are here)
